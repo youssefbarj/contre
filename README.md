@@ -1,18 +1,20 @@
-# Contre-indications — Microblading + Microshading
+# MICROBLADING ET MICROSHADING — Slide 7
 
-**Course:** MICROBLADING + MICROSHADING  
-**Slide:** 6  
-**Live URL:** https://contre.edtechiecorp.com  
-**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages  
-
-## What this slide does
-
-Displays the contraindications specific to combined microblading and microshading procedures. Covers absolute and relative contraindications including blood-thinning medications, skin conditions like psoriasis or eczema, pregnancy, and autoimmune disorders. The slide helps practitioners identify which clients are unsuitable for treatment before starting the consultation process.
+**Course:** MICROBLADING ET MICROSHADING
+**Slide:** 7
+**Live URL:** https://contre.edtechiecorp.com
+**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages
 
 ## Screenshot
 
-![contre](./screenshot.png)
+![contre](https://github.com/youssefbarj/contre/raw/main/screenshot.png)
+
+## What this slide does
+
+This is an interactive slide embedded as an iframe inside Coassemble. See the screenshot above for a visual preview of the content.
 
 ## Usage
 
-This slide is embedded as an iframe inside Coassemble at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+This slide is served via GitHub Pages at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+
+> **For E-Lumy's tech team:** After migrating this repo to your own GitHub account, re-enable GitHub Pages in Settings → Pages → Source: GitHub Actions. Then update the embed URL in Coassemble to your new deployment URL.
